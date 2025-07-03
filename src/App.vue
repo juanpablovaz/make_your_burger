@@ -1,17 +1,17 @@
 <template>
   <Navbar :logo="logo_src" :alt="app_name" />
   <router-view/>
-  <Footer/>
+  <FooterVi/>
 </template>
 
 <script>
 import Navbar from './components/Navbar.vue';
-import Footer from './components/Footer.vue';
+import FooterVi from './components/FooterVi.vue';
 
 export default {
   components:{
     Navbar,
-    Footer
+    FooterVi
   },
   data(){
     return {
@@ -27,8 +27,8 @@ export default {
 
 *{
   font-family: Helvetica;
-  margin: 0;
   padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 
@@ -43,6 +43,4 @@ h1 {
   margin-bottom: 30px;
   color: #222;
 }
-
-
 </style>
