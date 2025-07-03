@@ -65,17 +65,74 @@
   },
   "status": [
     {
-      "id": 1,
+      "id": "1",
       "tipo": "Solicitado"
     },
     {
-      "id": 2,
+      "id": "2",
       "tipo": "Em produção"
     },
     {
-      "id": 3,
+      "id": "3",
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "id": "ae7b",
+      "nome": "Juan Pablo",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "6ddf",
+      "nome": "Juan Pablo",
+      "carne": "Veggie burger",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "2347",
+      "nome": "Pedro",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Tomate"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "9803",
+      "nome": "JUAN",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Cebola roxa",
+        "Salame"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "c3a7",
+      "nome": "Maria Fernanda",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate"
+      ],
+      "status": "Solicitado"
+    }
+  ]
 }
