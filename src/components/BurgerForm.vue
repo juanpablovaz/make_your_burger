@@ -45,7 +45,7 @@
 </template>
 
 <script>
-import Message from './Message.vue';
+import Message from '../components/Message.vue';
 
 export default {
     name: "BurgerForm",

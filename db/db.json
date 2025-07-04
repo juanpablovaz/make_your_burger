@@ -79,17 +79,6 @@
   ],
   "burgers": [
     {
-      "id": "ae7b",
-      "nome": "Juan Pablo",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Pepino"
-      ],
-      "status": "Solicitado"
-    },
-    {
       "id": "6ddf",
       "nome": "Juan Pablo",
       "carne": "Veggie burger",
@@ -98,41 +87,19 @@
         "Bacon",
         "Pepino"
       ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     },
     {
-      "id": "2347",
-      "nome": "Pedro",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
+      "id": "d35c",
+      "nome": "Stefanny",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
       "opcionais": [
-        "Bacon",
-        "Tomate"
+        "Tomate",
+        "Pepino",
+        "Cebola roxa"
       ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "9803",
-      "nome": "JUAN",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cebola roxa",
-        "Salame"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "c3a7",
-      "nome": "Maria Fernanda",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Tomate"
-      ],
-      "status": "Solicitado"
+      "status": "Em produção"
     }
   ]
 }
